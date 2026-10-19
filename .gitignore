@@ -1,0 +1,16 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local tooling
+node_modules/
+_site/
+playwright-report/
+test-results/
+
+# Logs
+*.log
+npm-debug.log*

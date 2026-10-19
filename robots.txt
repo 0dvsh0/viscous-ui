@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0dvsh0.github.io/viscous-ui/sitemap.xml
