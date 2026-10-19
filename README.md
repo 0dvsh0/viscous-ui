@@ -1,6 +1,6 @@
 # Viscous UI — Gooey React components
 
-An open-source library of gooey, physically-inspired **React** components in a **mono carbon** (black and white) theme. This repository contains the component source and the live landing page that showcases all 21 components.
+An open-source library of gooey, physically-inspired **React** components in a **mono carbon** (black and white) theme. This repository contains the component source and the live landing page, with 21 interactive demos.
 
 - **Live site:** <https://0dvsh0.github.io/viscous-ui/>
 - **Source:** <https://github.com/0dvsh0/viscous-ui>
@@ -17,7 +17,9 @@ Every component uses three layers:
 
 Motion uses only CSS transforms and transitions (no animation runtime) and respects `prefers-reduced-motion`. Demos below the fold are mounted only when they approach the viewport.
 
-## Components (21)
+## Components
+
+The gallery mounts 21 interactive demos. `GooeyCursor` is exercised inside the hero and card demos.
 
 | Category | Components |
 |---|---|
